@@ -17,7 +17,7 @@ export const sendEmail = async({email,emailType,userId}:any)=>{
       port: 2525,
       auth: {
         user: "3a9c3419feb41d", //Not a good way
-        pass: "****f0f2" //Not a good way
+        pass: "8c313371d3f0f2" //Not a good way
       }
     });
 
